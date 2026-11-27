@@ -1,0 +1,14 @@
+CARLOS FLORES DE SANTIS — ARCHIVO DE PROYECTOS — VERSIÓN 3
+
+Descomprima el ZIP y abra index.html con Chrome, Edge o Firefox. No requiere instalación ni servidor. Mantenga la carpeta assets junto a index.html. Las tipografías web tienen alternativas locales.
+
+62 fichas. Descripciones completas extraídas de PROYECTOS (octubre de 2026), con los saltos de línea adaptados a la lectura digital. Las imágenes proceden de los elementos gráficos originales, no de capturas de páginas completas. Se mantienen las composiciones gráficas unitarias y se eliminan los márgenes exteriores.
+
+En cada ficha: seleccione una miniatura, pulse sobre la imagen principal para ampliar. Rueda o botones +/− para acercar/alejar, arrastre para desplazar, doble clic para ampliar/restablecer, botón 1:1 para tamaño original y botón de pantalla completa. Flechas izquierda/derecha para navegar. Esc para cerrar.
+
+El aumento digital no añade detalle al original. Algunas imágenes tienen una resolución limitada en el PDF.
+
+V3: visor con desplazamiento por ratón y gestos táctiles, doble toque y pellizco, navegación móvil, miniaturas desplazables y carga de imágenes adaptativa.
+
+PUBLICACIÓN EN GITHUB PAGES
+El contenido de esta carpeta constituye un sitio estático. Suba index.html, assets, data.json y .nojekyll al directorio raíz de un repositorio. En Settings > Pages, elija Deploy from a branch, main, / (root). GitHub mostrará la URL al completar el despliegue. Para una carga de este tamaño es preferible Git o GitHub Desktop.
